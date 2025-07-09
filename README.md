@@ -1,6 +1,6 @@
 ![MasterHead](https://images.wallpapersden.com/image/download/programming-coding-language_bGhpbm6UmZqaraWkpJRmbmdlrWZlbWU.jpg)
 <h1 align="center">Hi 👋, I'm Meryem</h1>
-<h3 align="center">I am a senior computer engineering student.</h3>
+<h3 align="center">I am a junior computer engineering student.</h3>
 
 - 🔭 I’m currently working on **python**
 
